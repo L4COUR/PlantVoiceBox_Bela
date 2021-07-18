@@ -83,6 +83,8 @@ Ligeledes omdøbes patch-filen fra PlantVoiceBox.pd til _main.pd for at BELA's L
 
 ![Bela_IDE](./media/Bela_IDE.png)
 
+## BELA Circuit
 
+![CircuitBELA](./media/CircuitBELA.png)
 
-for at køre patchen download dette repo og åben repoets folder med Bela og kør programmet.
+I udviklingen af koden er anvendt en LDR og resistor der kobles til boardets 3.3 v, GND og Analog input 1. LDR kan med fordel erstattes med en EMG sensor som analogt input.
